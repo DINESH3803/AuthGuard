@@ -238,5 +238,5 @@ MIT License – Free to use, modify, and share.
 ---
 
 ## Author
-Built by Nabeel Abbasi with a focus on API security and beginner-friendly demos.
+Built with a focus on API security and beginner-friendly demos.
 Star the repo if you found it useful.
